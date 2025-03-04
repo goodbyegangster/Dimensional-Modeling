@@ -3,6 +3,7 @@
 ## Kimball Group
 
 - [Dimensional Modeling Techniques](./Dimensional-Modeling-Techniques/README.md)
+- [Bus Matrix](./Bus-Matrix/README.md)
 
 ## References
 
