@@ -1,4 +1,4 @@
-# Design Tip #41: Drill Down into a More Detailed Bus Matrix
+# Design Tip #41 Drill Down into a More Detailed Bus Matrix
 
 ## データウェアハウス・バスアーキテクチャとマトリックスの役割
 

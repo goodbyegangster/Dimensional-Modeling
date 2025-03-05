@@ -2,8 +2,9 @@
 
 ## Kimball Group
 
-- [Dimensional Modeling Techniques](./Dimensional-Modeling-Techniques/README.md)
+- [Lifecycle](./Lifecycle/README.md)
 - [Bus Matrix](./Bus-Matrix/README.md)
+- [Dimensional Modeling Techniques](./Dimensional-Modeling-Techniques/README.md)
 
 ## References
 
