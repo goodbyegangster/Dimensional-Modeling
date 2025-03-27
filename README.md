@@ -5,6 +5,7 @@
 - [Lifecycle](./Lifecycle/README.md)
 - [Bus Matrix](./Bus-Matrix/README.md)
 - [Dimensional Modeling Techniques](./Dimensional-Modeling-Techniques/README.md)
+- [others](./others/README.md)
 
 ## Data Vault 2.0
 
