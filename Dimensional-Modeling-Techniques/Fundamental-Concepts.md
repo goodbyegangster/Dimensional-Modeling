@@ -27,7 +27,7 @@ https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimb
 
 ## Four-Step Dimensional Design Process
 
-dimensional modeling の設計において行われる 4 つの重要な決定事項は以下の通りです：
+dimensional modeling の設計において行われる 4 つの重要な決定事項は以下の通りです。
 
 1. ビジネスプロセスを選択する
 2. 粒度（グレイン）を定義する
