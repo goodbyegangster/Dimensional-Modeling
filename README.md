@@ -30,6 +30,7 @@
 - ETL and Data Quality
 - Technical Architecture
 - Business Intelligence Applications
+  - [Design Tip #158 Making Sense of the Semantic Layer](./others/Making-Sense-of-the-Semantic-Layer.md)
 
 ### Dimensional Modeling Techniques
 
